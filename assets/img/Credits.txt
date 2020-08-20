@@ -1,0 +1,2 @@
+cadasProf.png: Ícone(s) feito(s) por Smashicons from www.flaticon.com
+{cadasDisci.png, pesquisar.png, logo.png}: Ícone(s) feito(s) por Freepik from www.flaticon.com
